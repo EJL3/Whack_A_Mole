@@ -10,7 +10,7 @@ def initGame():
     pygame.init()
     pygame.mixer.init()
     screen = pygame.display.set_mode(core.SCREENSIZE)
-    pygame.display.set_caption('Game Animation')
+    pygame.display.set_caption('By Rizwan.AR')
     return screen
 
 
